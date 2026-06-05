@@ -26,7 +26,7 @@ I am a **Computer Science Specialist** deeply focused on the intersection of **A
 
 ### 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/albndryalmutiri?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] (https://sa.linkedin.com/in/albndryalmutiri)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: Albndry.hussien@gmail.com)
 
 ⚡ *Driven by building tech for digital safety and engineering production-ready code for high-impact environments.*
